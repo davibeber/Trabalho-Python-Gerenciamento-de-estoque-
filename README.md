@@ -1,14 +1,14 @@
-Sistema de Controle de Estoque
+# Sistema de Controle de Estoque
 
 Projeto desenvolvido para a disciplina de Análise e Desenvolvimento de Sistemas (ADS), focado no gerenciamento de fluxo de materiais e rastreabilidade de operações.
 
 
-Observação Técnica:
+## Observação Técnica:
 
   A formatação exigida pelas normas ABNT em documentos de texto (Word/PDF) pode corromper a indentação original do código devido à conversão de caracteres. Recomenda-se a utilização exclusiva dos arquivos deste repositório para garantir a integridade funcional do script.
 
 
-Funcionalidades
+## Funcionalidades:
 
 * Autenticação de usuário para controle de responsabilidade.
 
@@ -21,7 +21,7 @@ Funcionalidades
 * Registro de histórico contendo data, hora, operação e responsável.
 
 
-Tecnologias
+## Tecnologias:
 
   1. Linguagem: Python 3.
 
