@@ -5,26 +5,24 @@ Projeto desenvolvido para a disciplina de Análise e Desenvolvimento de Sistemas
 
 Observação Técnica:
 
-A formatação exigida pelas normas ABNT em documentos de texto (Word/PDF) pode corromper a indentação original do código devido à conversão de caracteres. 
-
-Recomenda-se a utilização exclusiva dos arquivos deste repositório para garantir a integridade funcional do script.
+  A formatação exigida pelas normas ABNT em documentos de texto (Word/PDF) pode corromper a indentação original do código devido à conversão de caracteres. Recomenda-se a utilização exclusiva dos arquivos deste repositório para garantir a integridade funcional do script.
 
 
 Funcionalidades
 
-Autenticação de usuário para controle de responsabilidade.
+* Autenticação de usuário para controle de responsabilidade.
 
-Entrada de produtos com atualização automática de saldo para itens existentes.
+* Entrada de produtos com atualização automática de saldo para itens existentes.
 
-Saída de itens com validação de disponibilidade em estoque.
+* Saída de itens com validação de disponibilidade em estoque.
 
-Listagem do estoque atualizado com identificadores únicos.
+* Listagem do estoque atualizado com identificadores únicos.
 
-Registro de histórico contendo data, hora, operação e responsável.
+* Registro de histórico contendo data, hora, operação e responsável.
 
 
 Tecnologias
 
-Linguagem: Python 3.
+  1. Linguagem: Python 3.
 
-Bibliotecas: datetime (nativa).
+  2. Bibliotecas: datetime (nativa).
