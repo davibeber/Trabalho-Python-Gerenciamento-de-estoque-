@@ -19,4 +19,5 @@ Registro de histórico contendo data, hora, operação e responsável.
 Tecnologias
 
 Linguagem: Python 3.
+
 Bibliotecas: datetime (nativa).
