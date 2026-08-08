@@ -1,5 +1,8 @@
 # Sistema de Controle de Estoque
 
+![Static Badge](https://img.shields.io/badge/status-Finalizado-black?style=flat-square&label=status&labelColor=black&color=green)
+
+
 Projeto desenvolvido para a disciplina de Análise e Desenvolvimento de Sistemas (ADS), focado no gerenciamento de fluxo de materiais e rastreabilidade de operações.
 
 
